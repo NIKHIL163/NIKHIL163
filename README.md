@@ -4,7 +4,9 @@
 </div>
 <h1 align="center">Hi 👋, I'm Nikhil Mogare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img  align="right" width="500" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding">
+
+<img  align="right" width="550" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" alt="coding">
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil163&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil163" /> </p>
