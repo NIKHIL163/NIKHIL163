@@ -18,6 +18,8 @@
 - 📫 How to reach me **nikhilmogare2971@gmail.com**
 
 - ⚡ Fun fact **YEAHHH!! YES I'M FUNNY**
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codingstella" alt="codingstella" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
